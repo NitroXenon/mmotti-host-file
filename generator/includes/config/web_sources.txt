@@ -1,6 +1,10 @@
+https://adaway.org/hosts.txt
+https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
 http://someonewhocares.org/hosts/hosts
-https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0
 https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
 https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
 https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-https://filters.adtidy.org/extension/chromium/filters/11.txt
+http://winhelp2002.mvps.org/hosts.txt
+https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts
+https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
+https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts
