@@ -15,3 +15,7 @@ https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
 https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/hosts_browser
 https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts
 https://filters.adtidy.org/extension/chromium/filters/11.txt
+https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjxlist.txt
+https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt
+https://raw.githubusercontent.com/justdomains/blocklists/master/lists/nocoin-justdomains.txt
+https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/ABP-FX.txt
